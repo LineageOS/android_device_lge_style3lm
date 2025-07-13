@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "FrameworksOverlayStyle3",
+    theme: "FrameworksOverlayStyle3",
+    product_specific: true
+}
