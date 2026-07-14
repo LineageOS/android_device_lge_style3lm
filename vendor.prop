@@ -14,7 +14,7 @@ persist.vendor.fingerprint.type=rear
 # Misc
 ro.vendor.lge.build.target_operator=DCM
 ro.vendor.lge.build.target_country=JP
-ro.vendor.lge.swversion=L41A20c
+ro.vendor.lge.swversion=L41A30d
 
 # USB
 vendor.usb.product_string=LG Style3
