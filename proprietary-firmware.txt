@@ -1,5 +1,5 @@
 ## All proprietary firmware from this list, unless pinned and noted otherwise,
-## are from L41A20c (RKQ1.210420.001).
+## are from L41A30d / L41A30e (SKQ1.211103.001).
 
 abl.img;AB
 akmu.img;AB
